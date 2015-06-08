@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author             = { "Peter DeWeese" => "peter@dewee.se" }
   s.social_media_url   = "http://twitter.com/peterdeweese"
 
-  s.platform     = :osx, "10.7"
+  s.platform     = :osx, "10.9"
   s.source       = { :git => "https://github.com/peterdeweese/AppInfoOSX.git", :tag => s.version }
 
   s.source_files  = "AppInfoOSX/*.{swift}"
