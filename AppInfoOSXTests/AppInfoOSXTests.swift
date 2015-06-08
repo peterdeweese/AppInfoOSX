@@ -1,15 +1,15 @@
 //
-//  AppInfoTests.swift
-//  AppInfoTests
+//  AppInfoOSXTests.swift
+//  AppInfoOSXTests
 //
-//  Created by Konstantin Koval on 06/03/15.
+//  Created by Peter DeWeese on 6/7/15.
 //  Copyright (c) 2015 Kostiantyn Koval. All rights reserved.
 //
 
-import UIKit
+import Cocoa
 import XCTest
 
-class AppInfoTests: XCTestCase {
+class AppInfoOSXTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
